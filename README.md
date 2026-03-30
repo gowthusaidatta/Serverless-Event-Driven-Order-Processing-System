@@ -5,7 +5,6 @@ A robust, scalable backend system for e-commerce order processing using AWS Lamb
 ## Table of Contents
 
 - [Overview](#overview)
-- [Documentation Index](#documentation-index) ⭐ **NEW FOR WINDOWS**
 - [Architecture](#architecture)
 - [Prerequisites](#prerequisites)
 - [Quick Start](#quick-start)
@@ -17,32 +16,6 @@ A robust, scalable backend system for e-commerce order processing using AWS Lamb
 - [Deployment](#deployment)
 - [Best Practices Implemented](#best-practices-implemented)
 - [Troubleshooting](#troubleshooting)
-
-## Documentation Index
-
-👉 **For Windows Users**: Start here!
-
-| Document | Purpose | Read Time |
-|----------|---------|-----------|
-| [QUICKSTART_WINDOWS.md](QUICKSTART_WINDOWS.md) | 5-minute deployment guide for Windows | 5 min |
-| [WINDOWS_COMMANDS.md](WINDOWS_COMMANDS.md) | Complete PowerShell command reference | 10 min |
-| [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) | Full project overview and status | 15 min |
-| [DEPLOYMENT_CHECKLIST.md](DEPLOYMENT_CHECKLIST.md) | Step-by-step verification checklist | 5 min |
-| [AWS_DEPLOYMENT.md](AWS_DEPLOYMENT.md) | Detailed AWS setup guide | 20 min |
-| [API_DOCS.md](API_DOCS.md) | API endpoint specifications | 10 min |
-| [ARCHITECTURE.md](ARCHITECTURE.md) | Technical architecture deep-dive | 30 min |
-
-### Recommended Reading Path
-
-1. **First Time?** → Start with [QUICKSTART_WINDOWS.md](QUICKSTART_WINDOWS.md) (5 minutes to deployment!)
-2. **During Development?** → Keep [WINDOWS_COMMANDS.md](WINDOWS_COMMANDS.md) open for quick command lookup
-3. **Troubleshooting?** → Check [DEPLOYMENT_CHECKLIST.md](DEPLOYMENT_CHECKLIST.md) and "Troubleshooting" section below
-4. **Deep Dive Needed?** → Read [ARCHITECTURE.md](ARCHITECTURE.md) and [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)
-
-### Deployment Scripts (Recommended)
-
-- **Windows (PowerShell)**: `.\scripts\deploy-to-aws.ps1` ← **Use this on Windows**
-- **Linux/Mac (Bash)**: `bash scripts/deploy-to-aws.sh`
 
 ## Overview
 
@@ -696,5 +669,6 @@ For issues and questions:
 **Version**: 1.0.0  
 **Last Updated**: 2024  
 **Author**: Development Team
-#   S e r v e r l e s s - E v e n t - D r i v e n - O r d e r - P r o c e s s i n g - S y s t e m  
+#   S e r v e r l e s s - E v e n t - D r i v e n - O r d e r - P r o c e s s i n g - S y s t e m 
+ 
  
